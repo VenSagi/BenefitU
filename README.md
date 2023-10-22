@@ -1,5 +1,5 @@
 # BenefitU 
-![BenefitU_logo](https://github.com/VenSagi/BenefitU/assets/77018162/4e9d2539-c236-43a8-9265-6ae312f80e19)
+![BenefitU_logo](https://github.com/VenSagi/BenefitU/assets/77018162/f1c2f029-3270-4a61-9ec7-fd215a12f8dc)
 
 # ABOUT
 # BenefitU is a web application that helps employees learn more about the benefits they receive from their companies. 
