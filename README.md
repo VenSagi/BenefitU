@@ -11,5 +11,5 @@ Using the OpenAI API, the user receives detailed feedback on the benefits.
 
 
 # CREDITS:
-Developers: Afsar Arif, Monish Kanneboina, Shreyas Kumar, Venkat Sagi
-This project was created with the help of Levels.fyi, who were very kind in letting us use their website
+Developers: Afsar Arif, Monish Kanneboina, Shreyas Kumar, Venkat Sagi.
+This project was created with the help of Levels.fyi, who were very kind in letting us use their website.
